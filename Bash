@@ -1,1 +1,40 @@
+https://www.youtube.com/watch?v=9X7G3uhnP6k
 
+What is a shell?
+What is shell scripting?
+How to tell which shell you are in or running? 
+What are the different types of commonly used shells on a Linux system?
+How to run/execute a script?
+After executing a shell script, how to terminate it? 
+What is the default login shell? How to change it?
+What is the purpose of shebang line? (#!/bin/bash)
+How to write comments in shell script?
+How to use multi-line comments in shell scripting?
+Which commands are used to print output in bash?
+How to make any variable unchangeable or readonly?
+How to find out how many arguments passed to a script? 
+How to start an infinite loop in a Bash script?
+In a Bash shell script, which of the following operators is used to test if two strings are equal? (=, -eq, !=, -ne)
+Which of the following will take the output of the "hostname" command and store it in the variable named "TMP_FILE"? 
+Which of the following are used to end a case statement in a Bash script? (exit, done, esac, end)
+Which of the variable is valid to use in shell script? (var@, var-1, 1var, VAR)
+Which of the following compares the value of two integers in a Bash script? 
+Differentiate between $@ and $*.
+How to redirect and append both stdout and stderr to a file with Bash?
+When the script is running in the UNIX, can you pass arguments to it?
+True or False. The "read" command supports splitting the data it reads into multiple variables.
+A while loop is a loop that repeats a series of commands for as long as a given condition is _______.  True or false;
+How to open a read-only file in the Shell?
+How will you debug problems encountered in the shell program?
+How to check a directory exists or not using bash?
+
+================
+https://www.youtube.com/watch?v=b-m0Oz_8W3k&list=PLPVaGLSxvigJfF9WWW0hD-yhMWq40ZY_G&index=2
+
+How to set a username and password to never expires.
+Why /etc/passwd and /ete/shadow file cannot be merged into 1 file
+To list, all the files opened by particular PID.
+We are unable to unmount the file system. What are the reason behind it ?
+What could be the reason it server take more time after reboot?.we are trying to create the file under any partition but we are getting permission denied alert. What could be the reason? However space issue and no permission issue?
+How to check kernel routing table Information?
+How to set sticky bit and what is the difference b/w smalls and capital S
